@@ -8,6 +8,8 @@
                  |_|                                                |__/
 ```
 
+This project based on [https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+](the lesson of Francois Chollet)
 
 Keras implementation of InceptionV3 convolutional neural network in solving binary classification problems
 
