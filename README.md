@@ -8,8 +8,10 @@
                  |_|                                                |__/
 ```
 
-This project based on [the lesson of Francois Chollet](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+This project is based on [the lesson of Francois Chollet](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 )
+
+All the data avaliable on [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 My [tutorial](https://habrahabr.ru/post/321834/)
 
