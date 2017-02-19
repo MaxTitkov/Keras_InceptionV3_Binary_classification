@@ -11,6 +11,8 @@
 This project based on [the lesson of Francois Chollet](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 )
 
+My [tutorial](https://habrahabr.ru/post/321834/)
+
 Keras implementation of InceptionV3 convolutional neural network in solving binary classification problems
 
 The folder should be like this:
