@@ -1,11 +1,5 @@
 # Keras_InceptionV3_Binary_classification
 
- ___                  _   _       __   ______  ___ _
- |_ _|_ _  __ ___ _ __| |_(_)___ _ \ \ / /__ / | _ |_)_ _  __ _ _ _ _  _
-  | || ' \/ _/ -_) '_ \  _| / _ \ ' \ V / |_ \ | _ \ | ' \/ _` | '_| || |
- |___|_||_\__\___| .__/\__|_\___/_||_\_/ |___/ |___/_|_||_\__,_|_|  \_, |
-                 |_|                                                |__/
-
 Keras implementation of InceptionV3 convolutional neural network in solving binary classification problems
 
 The folder should be like this:
