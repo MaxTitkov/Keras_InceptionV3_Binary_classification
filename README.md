@@ -48,3 +48,6 @@ Ordering:
 3. complete_model.py: Training the complete model with images;
 4. visualization.py: Visualize the result.
 
+This code has been successfully tested on:
+- Windows 10, Anaconda2-4.3.0.1, Keras 1.1.2, Theano 0.8.2
+- Ubuntu 14.04.5, Anaconda2-4.3.0.1, Keras 1.1.2, tensorflow 1.0.0
